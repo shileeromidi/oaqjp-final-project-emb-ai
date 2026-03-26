@@ -1,0 +1,6 @@
+************* Module emotion_detection
+emotion_detection.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+emotion_detection.py:3:0: C0116: Missing function docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 10.00/10 
